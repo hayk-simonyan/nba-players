@@ -1,0 +1,7 @@
+.favorite-list {
+  width: 40%;
+  margin-top: 165px;
+  height: 70vh;
+  overflow: hidden;
+  overflow-y: scroll;
+}

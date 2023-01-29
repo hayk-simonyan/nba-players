@@ -1,0 +1,12 @@
+.players-box {
+  width: 40%;
+  margin-top: 85px;
+}
+
+.players-list {
+  width: 100%;
+  margin-top: 35px;
+  height: 70vh;
+  overflow: hidden;
+  overflow-y: scroll;
+}

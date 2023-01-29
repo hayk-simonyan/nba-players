@@ -1,0 +1,15 @@
+.navbar {
+  width: 100%;
+  text-align: left;
+  padding: 20px 70px;
+  background: #f04d4d;
+  overflow: hidden;
+  position: fixed;
+}
+
+.navbar span {
+  font-family: "Team-Regular", "Helvetica", "Arial", "sans-serif";
+  font-weight: bolder;
+  color: aliceblue;
+  font-size: 25px;
+}

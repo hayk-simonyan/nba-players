@@ -1,0 +1,32 @@
+.player-item {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  list-style-type: none;
+  padding: 22px 12px;
+  margin: 11px 6px;
+  background: #01415f;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.player-item span {
+  color: #e3ddd2;
+  font-family: "Team-Regular", "Helvetica", "Arial", "sans-serif";
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.favorite-icon {
+  color: #f04d4d;
+}
+
+.player-item:first-child {
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.player-item:last-child {
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
