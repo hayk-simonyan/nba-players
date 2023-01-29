@@ -2,6 +2,8 @@
 
 This project is a home task from Bond Sports.
 
+LIVE: https://nba-players.onrender.com/
+
 - Using CRA+TypeScript
 - Using CSS Flexbox
 - Simple search functionality using Abort Controller
