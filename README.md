@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# NBA Players Task for Bond Sports
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a home task from Bond Sports.
+
+- Using CRA+TypeScript
+- Using CSS Flexbox
+- Simple search functionality using Abort Controller
+- Adding/Removing Favorites from players
+- Changing background color
+- `.env` file is not added to .gitignore so you can clone and run project instantly
 
 ## Available Scripts
 
